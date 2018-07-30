@@ -9,16 +9,16 @@
 }
 #diamond
 /* Select the image with class of emerald */
-
+.emerald
 /*selector for emerald goes here */  {
   position: absolute;
   z-index: 2;
   top: 350px;
   left: 369px;
 }
-.emerald
+#sand
 /* Select the image inside the element with an id of sand (using its descendant relationship) */
-.sand
+
 /*selector for sapphire goes here */{
   position: absolute;
   z-index: 5;

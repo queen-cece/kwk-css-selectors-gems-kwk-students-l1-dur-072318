@@ -18,7 +18,7 @@
 }
 .emerald
 /* Select the image inside the element with an id of sand (using its descendant relationship) */
-#sand
+.sand
 /*selector for sapphire goes here */{
   position: absolute;
   z-index: 5;
